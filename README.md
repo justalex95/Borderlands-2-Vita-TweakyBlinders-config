@@ -11,9 +11,12 @@ Rename the original files instead of deleting them in case you encounter an erro
 If you get an error on boot follow these steps to see if it resolves it...
 
 -copy over the files before installing any DLC
+
 -after the update from pkgj installs, check that the live update icon isnt shown on the games pre boot screen,
 if it is, update through live update.
+
 -Start the game with the default config and create a save game then copy over the altered config
 
 
 This has been tested and working on the EU and US nonpdrm versions. NOT TESTED ON MAI
+ 
