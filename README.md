@@ -1,14 +1,19 @@
 # Borderlands-2-Vita-TweakyBlinders-config
-A highly modified Borderlands 2 vita config that improves graphical quality while obtaining as much FPS as possible.
+ An altered config file for Borderlands 2for the vita to increase playability and fps. There are no graphical differences as the config has no effect on graphical settings.
 
-INSTALL INSTRUCTIONS:
+Copy the ngptoc.txt file to ux0/apps/pcse00383/WillowGame
 
-Connect your vita with USB or VPN, delete the Coalesced_INT.ini you find there and copy the Coalesced_INT.ini file in the download to this location:
+Copy the coalescedINT file to ux0/apps/pcse00383/WillowGame/CookedNGP
 
-ux0:/app/PCSE00383/WillowGame/CookedNGP
+Rename the original files instead of deleting them in case you encounter an error on boot.
 
-Then copy the NGPTOC.txt file to this location
 
-ux0:/app/PCSE00383/WillowGame
+If you get an error on boot follow these steps to see if it resolves it...
 
-Start up BL2 and see what you think
+-copy over the files before installing any DLC
+-after the update from pkgj installs, check that the live update icon isnt shown on the games pre boot screen,
+if it is, update through live update.
+-Start the game with the default config and create a save game then copy over the altered config
+
+
+This has been tested and working on the EU and US nonpdrm versions. NOT TESTED ON MAI
