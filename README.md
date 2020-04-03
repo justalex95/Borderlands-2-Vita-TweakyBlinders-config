@@ -1,4 +1,4 @@
-# Borderlands-2-Vita-TweakyBlinders-config
+# Borderlands-2-Altered-Config
  An altered config file for Borderlands 2for the vita to increase playability and fps. There are no graphical differences as the config has no effect on graphical settings.
 
 Copy the ngptoc.txt file to ux0/apps/pcse00383/WillowGame
