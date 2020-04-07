@@ -19,4 +19,6 @@ if it is, update through live update.
 
 
 This has been tested and working on the EU and US nonpdrm versions. NOT TESTED ON MAI
+
+Thread can be found here: https://www.reddit.com/r/vitahacks/comments/fvbamf/vita_borderlands_2_fps_fix_honest/
  
